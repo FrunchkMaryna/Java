@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="java1.RoomTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-11-01T08:41:02" hostname="DESKTOP-LS1IOAK" time="0.012">
+  <properties/>
+  <testcase name="testEquals" classname="java1.RoomTest" time="0.0"/>
+  <testcase name="testHashCode" classname="java1.RoomTest" time="0.0"/>
+  <testcase name="testToString" classname="java1.RoomTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
