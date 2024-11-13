@@ -1,0 +1,11 @@
+[ {
+  "lastName" : "Dea",
+  "firstName" : "Fluke",
+  "idDocument" : "AA123456",
+  "birthDate" : "1990-05-15"
+}, {
+  "lastName" : "Hockney",
+  "firstName" : "David",
+  "idDocument" : "BB654321",
+  "birthDate" : "1985-08-20"
+} ]
