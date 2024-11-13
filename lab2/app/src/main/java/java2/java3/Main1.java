@@ -1,4 +1,4 @@
-package java3.Services;
+package java3;
 
 import java3.Customer;
 import java3.Serialization.Serialization;
